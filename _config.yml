@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Jaco Yang"
-  avatar : "/assets/images/my_cat.jpg"
+  avatar : "/assets/images/my_cat.png"
   bio    : "軟體工程師的生活點滴"
   links:
     - label: "GitHub"

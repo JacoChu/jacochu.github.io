@@ -21,6 +21,9 @@ github_username: JacoChu
 minimal_mistakes_skin: mint
 search: true
 
+url: "https://jacochu.github.io"
+baseurl: ""
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
